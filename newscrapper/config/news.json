@@ -1,0 +1,16 @@
+{
+    "news": {
+        "real":[
+            "https://moxie.foxnews.com/google-publisher/us.xml",
+            "http://rss.cnn.com/rss/edition_us.rss"
+        ],
+        "fake":[
+            "https://empirenews.net/feed/",
+            "https://adobochronicles.com/feed/",
+            "http://www.bentspud.com/articles/news/feed/",
+            "https://www.beyondtheechochamber.com/feed/",
+            "https://www.burrardstreetjournal.com/feed/"
+        ]   
+    }
+    
+}
